@@ -12,7 +12,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     <label for="psw-repeat"><b>Confirm Password</b></label>
-    <input type="password" placeholder="Confirm Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Confirm Password" name="Confirm password" id="psw-repeat" required>
     <hr>
     
 
